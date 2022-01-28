@@ -19,7 +19,7 @@
   background-image: url('https://cursos.dankicode.com/app/Views/public/images/home/banner-home.png');
   background-position: center;
   background-size: cover;
-  min-height: 500px;
+  min-height: 700px;
 }
 .menu{
   width: 100%;
@@ -57,12 +57,12 @@
 }
 
 .items-form{
-  margin: 10px auto;
+  margin: 20px auto;
   max-width: 540px;
   display: flex;
   width: 100%;
   justify-content: space-around;
-  background-color: rgba(160, 154, 190, 0.808);
+ 
   
   flex-wrap: wrap;
   }

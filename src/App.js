@@ -14,10 +14,10 @@ function App() {
        <a href="#">Login</a>
      </div>
    </div>
-
+  
    <div className="form">
     <h2>Entre em contato!</h2>
-
+   
        <form>
        <div className="items-form">
          <input placeholder="Seu nome..." type="text"/>
@@ -41,16 +41,12 @@ function App() {
         </p>
       </div>
       <div className='conteudo-single'>
-        <h3> Título da chamada</h3> 
-        <p>
-        Aqui é o conteúdo de exemplo para o site, ainda estamos trabalhando na estilização e nas funcionalidades.
-        </p>
+      
     </div>
 
     </div>
     </div>
     </div>
-
   );
 }
 
