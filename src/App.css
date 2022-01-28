@@ -35,7 +35,7 @@
   color:white;
   text-decoration: none;
   border: 1px solid white;
-  padding: 3px 8px;
+  padding: 4px 8px;
   border-radius: 5px;
 }
 .form{
@@ -43,10 +43,10 @@
   display: flex;
   width: 100%;
    max-width: 600px;
-  margin:120px auto;
+  margin:150px auto;
   flex-wrap: wrap;
   justify-content: center;
-  background-color: #340ce7;
+  background-color: #55647c;
 }
 .form h2{
   color:white;
@@ -58,7 +58,7 @@
 
 .items-form{
   margin: 20px auto;
-  max-width: 540px;
+  max-width: 520px;
   display: flex;
   width: 100%;
   justify-content: space-around;
@@ -66,7 +66,7 @@
   
   flex-wrap: wrap;
   }
-  .items form[type=text]{
+  .items-form[type=text]{
     width: 58%;
     height: 30px;
     margin: 8px 0px;
@@ -76,7 +76,7 @@
   .items-form input[ type=submit]{
     width: 20%;
     height: 25px;
-    background-color: #d43960;
+    background-color: #349cd8;
     cursor: pointer;
     color: white;
     border: 8;

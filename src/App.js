@@ -35,7 +35,7 @@ function App() {
     <div className='conteudo'>
       <div className='center'>
         <div className='conteudo-single'>
-        <h3> Título da chamada</h3> 
+        <h3> Página de cadastro</h3> 
         <p>
           Aqui é o conteúdo de exemplo para o site, ainda estamos trabalhando na estilização e nas funcionalidades.
         </p>
