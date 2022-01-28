@@ -8,7 +8,7 @@ function App() {
     <div className="center">
      <div className="menu">
      <div className="logo">
-     <h3>Cadastro simples</h3>
+     <h3>Tela de cadastro</h3>
      </div>
      <div className="item-menu">
        <a href="#">Login</a>
@@ -35,13 +35,13 @@ function App() {
     <div className='conteudo'>
       <div className='center'>
         <div className='conteudo-single'>
-        <h3> título da chamada</h3> 
+        <h3> Título da chamada</h3> 
         <p>
           Aqui é o conteúdo de exemplo para o site, ainda estamos trabalhando na estilização e nas funcionalidades.
         </p>
       </div>
       <div className='conteudo-single'>
-        <h3> título da chamada</h3> 
+        <h3> Título da chamada</h3> 
         <p>
         Aqui é o conteúdo de exemplo para o site, ainda estamos trabalhando na estilização e nas funcionalidades.
         </p>
